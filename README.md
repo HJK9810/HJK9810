@@ -15,3 +15,6 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"></a>
 </p>
+
+<br><br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rubylulu)](https://solved.ac/rubylulu/)

@@ -1,7 +1,7 @@
 ### HeeJu Kim
 
 ***************
-![HeeJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HJK9810&show_icons=true&theme=radical)    
+![Hee Ju's GitHub stats](https://github-readme-stats.vercel.app/api?username=HJK9810&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HJK9810&layout=compact&theme=tokyonight) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rubylulu)](https://solved.ac/profile/rubylulu)
 

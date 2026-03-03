@@ -1,11 +1,21 @@
 ### HeeJu Kim
 
 ***************
-![Hee Ju's GitHub stats](https://github-readme-stats.vercel.app/api?username=HJK9810&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HJK9810&layout=compact&theme=tokyonight) 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rubylulu)](https://solved.ac/profile/rubylulu)
+![Hee Ju's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HJK9810&show_icons=true&theme=cobalt)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HJK9810&layout=compact&theme=tokyonight) 
+<br>
 
 ***************
+<table style="border: none; width: 100%;">
+<tr>
+<td width="40%">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rubylulu)](https://solved.ac/profile/rubylulu)
+<br>
+
+</td>
+<td width="60%">
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
@@ -25,3 +35,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
 
 <br><br>
+
+</td>
+</tr>
+</table>

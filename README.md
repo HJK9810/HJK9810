@@ -1,8 +1,8 @@
 ### HeeJu Kim
 
 ***************
-![Hee Ju's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HJK9810&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HJK9810&layout=compact&theme=tokyonight) 
+[![Hee Ju's GitHub stats](https://github-stats-extended.vercel.app/api?username=HJK9810&show_icons=true&theme=cobalt)](https://github.com/stats-organization/github-stats-extended)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=HJK9810&layout=compact&theme=tokyonight)
 <br>
 
 ***************
@@ -22,6 +22,7 @@
 ![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=JQuery&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 <br>
 ![JAVA](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -30,9 +31,11 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
 <br>
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Intellij IDEA](https://img.shields.io/badge/Intellij_IDEA-000000?style=flat-square&logo=IntellijIDEA&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=JetBrains&logoColor=white)
 
 <br><br>
 

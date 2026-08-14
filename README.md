@@ -1,6 +1,9 @@
 ### HeeJu Kim
 
 ***************
+[![codemaru card for HJK9810](https://codemaru.bnbong.com/api/card.svg?github=HJK9810&boj=rubylulu&leetcode=hjk9810&theme=transparent)](https://github.com/HJK9810)
+<br>
+
 [![Hee Ju's GitHub stats](https://github-stats-extended.vercel.app/api?username=HJK9810&show_icons=true&theme=cobalt)](https://github.com/stats-organization/github-stats-extended)
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=HJK9810&layout=compact&theme=tokyonight)
 <br>

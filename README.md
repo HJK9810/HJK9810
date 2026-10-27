@@ -50,23 +50,7 @@
 
   <!-- 3. 3D Core Pillars -->
   <h2>🧊 3D Core Pillars</h2>
-  <img src="./assets/3d-milestone-cubes.svg" width="100%" alt="3D Milestone Cards"/>
-
-  <br/><br/>
-
-  <!-- 4. 3D Keycaps Skill Deck -->
-  <h2>🎹 3D Tactile Skill Deck</h2>
-  <p><sub>Interactive tactile keycaps and core engineering tech stacks ✨</sub></p>
-
-  <img src="./assets/3d-keycaps.svg" width="100%" alt="3D Mechanical Keycaps Skillset"/>
-
-  <br/><br/>
-
-  <!-- 5. Visual R&D Lab -->
-  <h2>🧪 Visual R&D Lab: Geometric &amp; Shader Observatory</h2>
-  <p><sub>Visualizing mathematical geometry and GLSL shaders in the browser 🔭</sub></p>
-
-  <img src="./assets/visual-lab-hud.svg" width="100%" alt="Visual Lab HUD Telemetry Console"/>
+  <img src="./assets/github-contribution-grid-snake-dark.svg" width="100%" alt="3D Milestone Cards"/>
 
   <br/><br/>
 

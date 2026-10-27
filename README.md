@@ -1,47 +1,97 @@
 ### HeeJu Kim
-
 ***************
-[![codemaru card for HJK9810](https://codemaru.bnbong.com/api/card.svg?github=HJK9810&boj=rubylulu&leetcode=hjk9810&theme=transparent)](https://github.com/HJK9810)
-<br>
 
-[![Hee Ju's GitHub stats](https://github-stats-extended.vercel.app/api?username=HJK9810&show_icons=true&theme=cobalt)](https://github.com/stats-organization/github-stats-extended)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=HJK9810&layout=compact&theme=tokyonight)
-<br>
+<div align="center">
 
-***************
-<table style="border: none; width: 100%;">
-<tr>
-<td width="40%">
+  <!-- 1. Wave Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:38bdf8&height=210&section=header&text=HeeJu_Kim%20%F0%9F%AA%90&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Spatial%20Web%20%E2%80%A2%20High-Performance%20Frontend%20%E2%80%A2%20Creative%20AI%20Engineer&descSize=16&descAlignY=60" width="100%"/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rubylulu)](https://solved.ac/profile/rubylulu)
-<br>
+  <!-- 2. Signature Animated Celestial Geometry Emblem -->
+  <a href="https://github.com/HJK9810" target="_blank">
+    <img src="./assets/celestial-geometry.svg" width="135" alt="Celestial Geometry Emblem"/>
+  </a>
 
-</td>
-<td width="60%">
+  <h2>🪐 HeeJu Kim (풀스택 개발자)</h2>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=JQuery&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
-<br>
-![JAVA](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
-<br>
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white)
-![git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
-![Intellij IDEA](https://img.shields.io/badge/Intellij_IDEA-000000?style=flat-square&logo=IntellijIDEA&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
-![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=JetBrains&logoColor=white)
+  <!-- Real-time Typing SVG -->
+  <a href="https://github.com/HJK9810" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=17&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Hello+World!+I'm+HeeJu_Kim+%F0%9F%AA%90%E2%9C%A8;60FPS+Spatial+Web+%26+Creative+Frontend+Engineer;Navigating+Geometric+%26+Celestial+3D+Digital+Universes" alt="Typing SVG" />
+  </a>
 
-<br><br>
 
-</td>
-</tr>
-</table>
+  <!-- Social Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white" height="155"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white" height="155"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white" height="155"/>
+    <img src="https://img.shields.io/badge/JQuery-0769AD?style=plastic&logo=JQuery&logoColor=white" height="155"/>
+    <img src="https://img.shields.io/badge/JSON-000000?style=plastic&logo=JSON&logoColor=white" height="155"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white" height="155"/>
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=Vue.js&logoColor=white" height="155"/>
+    <br>
+    <img src="https://img.shields.io/badge/JAVA-007396?style=plastic&logo=java&logoColor=white" height="155"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white" height="155"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic&logo=SpringBoot&logoColor=white" height="155"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white" height="155"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white" height="155"/>
+    <br>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white" height="155"/>
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=plastic&logo=GitLab&logoColor=white" height="155"/>
+    <img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white" height="155"/>
+    <img src="https://img.shields.io/badge/Intellij_IDEA-000000?style=plastic&logo=IntellijIDEA&logoColor=white" height="155"/>
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=plastic&logo=VisualStudioCode&logoColor=white" height="155"/>
+    <img src="https://img.shields.io/badge/JetBrains-000000?style=plastic&logo=JetBrains&logoColor=white" height="155"/>
+  </p>
+  
+
+  <br/>
+  ---
+  <br/>
+
+  <!-- 3. 3D Core Pillars -->
+  <h2>🧊 3D Core Pillars</h2>
+  <img src="./assets/3d-milestone-cubes.svg" width="100%" alt="3D Milestone Cards"/>
+
+  <br/><br/>
+
+  <!-- 4. 3D Keycaps Skill Deck -->
+  <h2>🎹 3D Tactile Skill Deck</h2>
+  <p><sub>Interactive tactile keycaps and core engineering tech stacks ✨</sub></p>
+
+  <img src="./assets/3d-keycaps.svg" width="100%" alt="3D Mechanical Keycaps Skillset"/>
+
+  <br/><br/>
+
+  <!-- 5. Visual R&D Lab -->
+  <h2>🧪 Visual R&D Lab: Geometric &amp; Shader Observatory</h2>
+  <p><sub>Visualizing mathematical geometry and GLSL shaders in the browser 🔭</sub></p>
+
+  <img src="./assets/visual-lab-hud.svg" width="100%" alt="Visual Lab HUD Telemetry Console"/>
+
+  <br/><br/>
+
+
+  <!-- 7. 3D Contribution Grass & Telemetry -->
+  <h2>🌱 3D Contribution Grass &amp; Telemetry</h2>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Isometric Contribution Grass"/>
+
+  <br/><br/>
+
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=HJK9810&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=fbbf24&text_color=c9d1d9" height="155"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HJK9810&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" height="155"/>
+  </p>
+
+  <p>
+    <img src="https://streak-stats.demolab.com/?user=HJK9810&theme=tokyonight&hide_border=true&background=0d1117&stroke=1e293b&ring=38bdf8&fire=fbbf24&currStreakLabel=38bdf8" height="155"/>
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=rubylulu" height="155"/>
+  </p>
+
+  <p>
+    <img src="https://codemaru.bnbong.com/api/card.svg?github=HJK9810&boj=rubylulu&leetcode=hjk9810&theme=transparent" height="155" />
+  </p>
+
+  <br/>
+
+</div>
+

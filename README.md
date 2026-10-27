@@ -6,10 +6,7 @@
   <!-- 1. Wave Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:38bdf8&height=210&section=header&text=HeeJu_Kim%20%F0%9F%AA%90&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Spatial%20Web%20%E2%80%A2%20High-Performance%20Frontend%20%E2%80%A2%20Creative%20AI%20Engineer&descSize=16&descAlignY=60" width="100%"/>
 
-  <!-- 2. Signature Animated Celestial Geometry Emblem -->
-  <a href="https://github.com/HJK9810" target="_blank">
-    <img src="./assets/celestial-geometry.svg" width="135" alt="Celestial Geometry Emblem"/>
-  </a>
+ 
 
   <h2>🪐 HeeJu Kim (풀스택 개발자)</h2>
 
